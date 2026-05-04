@@ -1,3 +1,3 @@
 # Introdução ao GitHub
-nome = 'Robson'
+nome = input('Informe seu nome: ')
 print(nome)
